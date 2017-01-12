@@ -1,4 +1,4 @@
-# MMA-Biometria
+# TrashAttack-jogo
 Jogo com interface gráfica baseado no clássico Space Invaders. Ao invés de naves espaciais, temos lixos sendo atirados no chão enquanto o jogador(gari) tenta capturá-los utilizando lixeiras de coleta seletiva, onde cada lixo tem sua lixeira correspondente. O objetivo é impedir que os lixos entupam o bueiro e provoquem enchentes quando chover.
 
 Este projeto foi desenvolvido durante a graduação em Ciência da Computação na UNIP.
